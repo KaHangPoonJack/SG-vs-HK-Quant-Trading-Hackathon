@@ -1,4 +1,4 @@
-# 🏆 Team41 SmashCoins: SG vs HK Quant Trading Hackathon -- IMC Trading $\times$ Roostoo Labs
+# SG vs HK Quant Trading Hackathon -- IMC Trading $\times$ Roostoo Labs: Team41 SmashCoins
 # Quant Trading Bot - Hackathon Submission
 
 ## 📋 Executive Summary
