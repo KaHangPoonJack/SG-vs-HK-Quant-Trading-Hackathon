@@ -1,4 +1,4 @@
-# 🏆 Team41 SmashCoins
+# 🏆 Team41 SmashCoins: SG vs HK Quant Trading Hackathon -- IMC Trading $\times$ Roostoo Labs
 # Quant Trading Bot - Hackathon Submission
 
 ## 📋 Executive Summary
@@ -808,8 +808,8 @@ Project File/
 **Teammates:**
 - Jack POON HKUST Computer Science & Mathematics [www.linkedin.com/in/kahangpoon](https://www.linkedin.com/in/kahangpoon/)
 - Cadel TSOI HKU Computer Engineering [www.linkedin.com/in/hoi-wang-tsoi](https://www.linkedin.com/in/hoi-wang-tsoi-34812033a/)
-- Ivan SIT HKUST Biotechnology https://www.linkedin.com/in/chak-hong-sit
-- Jacky LIN HKUST Computer Science 
+- Ivan SIT HKUST Biotechnology [https://www.linkedin.com/in/chak-hong-sit]
+- Jacky LIN HKUST Computer Science [https://www.linkedin.com/in/houkwanlam]
 
 
 **Team Developer Project** - Designed, developed, and deployed by quantitative developers with expertise in:
